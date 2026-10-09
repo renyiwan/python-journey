@@ -1,0 +1,19 @@
+Python is a language that people use to work with data.
+When you write code in Python, the code is short and easy to read.
+Many students learn Python because Python is useful for data analysis.
+Data is everywhere, and people who can work with data are valuable.
+You can write a small program to read a file, you can write a small
+program to count words, and you can write a program to draw a chart.
+The best way to learn Python is to write code every day.
+You do not need to read ten books about Python.
+You need to write code, you need to make mistakes, and you need to fix them.
+Every time you fix a bug, you learn something new.
+A bug is not a failure, a bug is a teacher.
+When your code is slow, you can make your code faster.
+When your code is long, you can make your code shorter.
+Good code is simple code, and simple code is easy to change.
+If you want to build an agent, you need Python first.
+An agent can read a file, an agent can call a model, and an agent can
+write the answer to a file.
+So write code today, write code tomorrow, and keep writing code.
+Python will pay you back, and data will pay you back too.
